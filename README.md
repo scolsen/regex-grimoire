@@ -4,7 +4,7 @@ This repository houses a variety of regex formulas I've found useful at one
 point or another (for alteration, conjuration, or other forms of computational black magic). 
 
 The `regexes` folder contains subfolders, divided by category,
-that contain source regex files. Each subfolder has a corresponding markdown
+that contain source vimscript files for executing the regex. Each subfolder has a corresponding markdown
 file, stored at the top level, that describes the regex formulae it contains.
 
 ## The TARGET Variable
